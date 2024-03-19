@@ -1,0 +1,2 @@
+# emudeck-launcher-themes
+Themes
