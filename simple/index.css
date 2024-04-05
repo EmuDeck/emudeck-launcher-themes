@@ -212,7 +212,7 @@ body {
 }
 
 .games__bg {
-  position: static;
+  position: absolute;
   z-index: 2;
   width: 90%;
   object-fit: cover;
