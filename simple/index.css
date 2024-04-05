@@ -176,13 +176,6 @@ body {
 
 .games__name {
   font-size: 3vw;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 55%;
-  width: 80%;
   font-family: "Bebas";
   transition: 1s;
   opacity: 0.8;
